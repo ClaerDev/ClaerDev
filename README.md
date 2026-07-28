@@ -183,13 +183,12 @@ NOW   Senior AI & Full Stack Engineer 🚀
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
----
+
 # 🚀 My Contributions Graph
 <div align="center">
   <img align="center"
   src="https://github-readme-activity-graph.vercel.app/graph?username=ClaerDev&theme=tokyo-night&hide_border=true"/>
 </div>
----
 
 # 🚀 My Github Stats
 <center>
@@ -197,11 +196,6 @@ NOW   Senior AI & Full Stack Engineer 🚀
     <img align="center"
     src="https://streak-stats.demolab.com?user=ClaerDev&theme=tokyonight&hide_border=true"/>
   </div>
----
-
-*   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/TranHuuDat2004?tab=repositories).
-
----
 
 <p align="center">
   <strong>Thanks for visiting!</strong> 
