@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3F46E5,20:2563EB,100:06B6D4&text=Tobei%20Okita&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
 <p align="center"
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=fffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B+;+I'm+Tobei+Okita!" alt="Tobei" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=fffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B+;+I'm+Takashi+Hagiwara!" alt="Takashi" /></a>
 </p>
 
 <h3 align="center">Senior AI & Full Stack Engineer</h3>
@@ -15,9 +13,7 @@
 
 - 🧠 Senior AI & Full Stack Engineer with 8+ years of experience building scalable SaaS platforms, production-grade LLM applications, AI agents, and cloud-native systems.
 - 🌱 Experienced in designing end-to-end AI products using RAG, LangChain, OpenAI APIs, FastAPI, React, Kubernetes, and AWS.
-- 👯 I'm open to collaborating on **AI/LLM applications** and **Web Development projects**.
-- 📫 How to reach me: **Tobeiokita35@gmail.com**
-- 📍 Based in Osaka, Japan
+- 👯 I'm open to collaborating on **AI/LLM applications** and **Web System Development projects**.
 ---
 # 🛠️ Tech Stack
 
