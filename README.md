@@ -87,32 +87,6 @@
 
 ---
 
-# 💼 Career Timeline
-<center>
-
-```text
-05/2018 – 08/2020   Junior Full Stack Developer
-
-        │
-
-09/2020 – 06/2022   Full Stack Developer
-
-        │
-
-06/2022 – 02/2024   AI Developer
-
-        │
-
-03/2024 – 02/2026   AI | Full-Stack Engineer
-
-        │
-
-NOW   Senior AI & Full Stack Engineer 🚀
-```
-</center>
-
----
-
 # 🏆 Academic Projects:
 
 <h3 align="center">🎨 Featured Projects Showcase</h3>
