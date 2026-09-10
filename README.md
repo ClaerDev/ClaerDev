@@ -11,9 +11,10 @@
 ---
 # 💻 About Me
 
-- 🧠 Senior AI & Full Stack Engineer with 8+ years of experience building scalable SaaS platforms, production-grade LLM applications, AI agents, and cloud-native systems.
-- 🌱 Experienced in designing end-to-end AI products using RAG, LangChain, OpenAI APIs, FastAPI, React, Kubernetes, and AWS.
-- 👯 I'm open to collaborating on **AI/LLM applications** and **Web System Development projects**.
+- 🧠 Senior AI & Full Stack Engineer with 8+ years of experience building scalable SaaS platforms, production-grade LLM applications, AI agents, and cloud-native systems. Full-Stack & AI Infrastructure Engineer specializing in high-concurrency backend architectures, event-driven microservices, and reactive user interfaces. 
+- 🌱 Experienced in designing end-to-end AI products using RAG, LangChain, OpenAI APIs, FastAPI, React, Spring Boot 3, OAuth2, Redis, Kubernetes, and AWS.
+- 👯 Passionate about bridging the gap between web platforms and modern AI workflows by building scalable data pipelines, secure containerized sandboxes, and low-latency streaming systems.
+- ✨ Committed to writing clean, production-grade code using Java, Spring Boot, React, and Kubernetes to solve complex architectural challenges.
 ---
 # 🛠️ Tech Stack
 
