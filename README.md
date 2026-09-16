@@ -11,11 +11,11 @@
 ---
 # 💻 About Me
 
-- 🧠 Senior AI & Full Stack Engineer with 8+ years of experience building scalable SaaS platforms, production-grade LLM applications, AI agents, and cloud-native systems. Full-Stack & AI Infrastructure Engineer specializing in high-concurrency backend architectures, event-driven microservices, and reactive user interfaces. 
-- 🌱 Experienced in designing end-to-end AI products using RAG, LangChain, OpenAI APIs, FastAPI, React, Spring Boot 3, OAuth2, Redis, Kubernetes, and AWS.
-- 👯 Passionate about bridging the gap between web platforms and modern AI workflows by building scalable data pipelines, secure containerized sandboxes, and low-latency streaming systems.
-- ✨ Committed to writing clean, production-grade code using Java, Spring Boot, React, and Kubernetes to solve complex architectural challenges.
----
+- 🧠 Senior AI Engineer — LLM Post-Training & MLOps Infrastructure with 8+ years of experience building high-concurrency backend architectures, event-driven microservices, and production-grade AI platforms. Specializing in bridging the critical gap between enterprise web systems and modern generative AI workflows by designing robust data pipelines, secure containerized sandboxes, and low-latency streaming applications.
+- 🌱 Experienced in engineering end-to-end AI products using Java 21, Spring Boot 3, React 19, TypeScript, and Python. Highly adept at deploying LangGraph multi-agent reasoning paths, optimizing real-time token telemetry over WebSockets/SSE, and orchestrating high-dimensional vector search schemas via pgvector and Pinecone.
+- 🚀 Passionate about optimizing the AI data lifecycle through automated Continuous Ingestion pipelines and Reinforcement Learning from Human Feedback (RLHF) infrastructures. Expert in scaling distributed cloud-native networks using Docker, Kubernetes (Amazon EKS), Apache Kafka, Redis, and Spring Security (OAuth2/OIDC) to guarantee total multi-tenant isolation for frontier foundation models.
+- ✨ Committed to writing clean, production-grade code and delivering high-performance architectural solutions. Focused on solving complex system-level bottlenecks, managing asynchronous pipeline scale, and defining what excellence looks like across diverse, cutting-edge codebases.
+  
 # 🛠️ Tech Stack
 
 <p align="center">
