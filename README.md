@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=fffff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+everyone+!+%F0%9F%91%8B+;+I'm+Takashi+Hagiwara!" alt="Takashi" /></a>
 </p>
 
-<h3 align="center">Senior AI & Full Stack Engineer</h3>
+<h3 align="center">Senior AI Engineer — LLM Post-Training & MLOps Infrastructure</h3>
 
 <!-- Make sure 'type.gif' exists in your repository or replace the src with a valid URL -->
 
